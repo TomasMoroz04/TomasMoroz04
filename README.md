@@ -10,7 +10,6 @@ Me interesa el desarrollo de software, el diseño de sistemas y la resolución d
 - 🧠 Me interesan los algoritmos, las estructuras de datos y la optimización computacional.
 - 🗄️ Trabajo con diseño de bases de datos, SQL y modelado de sistemas.
 - 🔌 Exploro la integración de hardware y software mediante Arduino, ESP32 e IoT.
-- 🤖 Me interesa la inteligencia artificial y su aplicación a problemas reales.
 - 📚 Siempre estoy aprendiendo nuevas herramientas y mejorando mis proyectos.
 
 ## 🛠️ Tecnologías y herramientas
