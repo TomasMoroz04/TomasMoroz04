@@ -36,7 +36,7 @@ Sistema en C que aplica listas enlazadas, árboles binarios, pilas, colas y pers
 ### 💳 [Modelo relacional Fintech](https://github.com/TomasMoroz04/Modelo-Relacional-Fintech-SQL)
 Diseño de una base de datos para una billetera virtual, con especialización de entidades, normalización, consultas analíticas y operaciones transaccionales en MySQL.
 
-### 🖥️ [Simulador de planificación de CPU y memoria](https://github.com/TomasMoroz04)
+### 🖥️ [Simulador de planificación de CPU y memoria](https://github.com/TomasMoroz04/Simulador-Planificacion-CPU-Memoria)
 Proyecto orientado a Sistemas Operativos, con algoritmos de planificación, paginación de memoria, concurrencia y persistencia en Java.
 
 ### 🔬 [Investigación sobre optimización CVRP](https://github.com/TomasMoroz04/Investigacion-Optimizacion-CVRP)
