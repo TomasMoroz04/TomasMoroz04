@@ -53,7 +53,3 @@ Proyecto de hardware y software que integra ESP32, Arduino, sensores y un bot de
 Seguir desarrollando mis habilidades como futuro ingeniero en informática, participar en proyectos desafiantes y construir soluciones que combinen buenas prácticas de programación, pensamiento analítico y tecnología.
 
 ---
-
-<p align="center">
-  <i>Aprender, construir y mejorar, un proyecto a la vez. 🚀</i>
-</p>
